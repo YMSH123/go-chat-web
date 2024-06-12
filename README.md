@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # go-chat
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -34,7 +33,9 @@ pnpm build
 ```sh
 pnpm lint
 ```
-=======
+
 # go-chat-web
 go-chat即时通讯前端
->>>>>>> 1595b2b7b8c7e8cf4e5da2ba884da8466b06b523
+
+        
+	
